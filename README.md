@@ -2,7 +2,7 @@
 
 A lightweight, keyboard-centric Kanban board that runs entirely in your terminal. Built with Go and the [Charm](https://charm.sh/) ecosystem (`Bubble Tea`, `Lipgloss`).
 
-PLACEHOLDER OF A SCREENSHOT
+<img width="1974" height="1352" alt="image" src="https://github.com/user-attachments/assets/ad8f87c5-9dd7-47fe-8901-61cfb634f20d" />
 
 ## 🚀 Features
 
