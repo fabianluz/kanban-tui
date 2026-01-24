@@ -1,0 +1,10 @@
+# Ignore compiled binary
+kanban
+*.exe
+
+# Ignore local data files (users should start fresh)
+board.json
+backup_kanban.json
+
+# Ignore Mac system files
+.DS_Store
