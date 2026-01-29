@@ -26,7 +26,7 @@ Ensure you have [Go installed](https://go.dev/dl/) (version 1.18+ recommended).
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/kanban-tui.git](https://github.com/YOUR_USERNAME/kanban-tui.git)
+    git clone https://github.com/fabianluz/kanban-tui
     cd kanban-tui
     ```
 
